@@ -1,0 +1,106 @@
+body {
+  font-family: My Font;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+  width: 100%;
+  background-color: hsl(234, 29%, 20%);
+}
+
+.container {
+  width: 1200px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: whitesmoke;
+  border-radius: 15px;
+  padding: 15px;
+}
+
+/* .card {
+  display: flex;
+  width: 800px;
+  background-color: white;
+  padding: 40px;
+  border: radius 20px;
+} */
+.right {
+  width: 60%;
+}
+.left {
+  width: 40%;
+}
+.left image {
+  width: 100%;
+}
+
+ul {
+  width: 100%;
+}
+
+li {
+  margin: bottom 10px;
+  list-style: none;
+}
+
+form {
+  display: flex;
+  flex-direction: column;
+  width: 300px;
+
+  label {
+    margin-bottom: 10px;
+  }
+}
+
+input {
+  padding: 10px 20px;
+  font-family: inherit;
+  border-radius: 5px;
+  outline: none;
+  border: none;
+  border: 1px solid hsl(231, 7%, 60%);
+}
+
+button {
+  font-family: inherit;
+  margin: 20px;
+  padding: 15px 20px;
+  border: none;
+  outline: none;
+  color: white;
+  border-radius: 5px;
+  cursor: pointer;
+  background-color: hsl(231, 7%, 60%);
+}
+h1 {
+  font-size: 50px;
+  
+}
+.hide {
+  display: none;
+}
+
+.image{
+  width: 20px;
+  margin-right: 15px;
+}
+
+.image{
+ width: 20px; ;
+
+}
+
+.success-icon {
+  height: 20px;
+  width: 20px;
+margin-right: 20px;
+
+}
+
+button{background-color:hsl(234, 29%, 20%) ;
+
+
+
+}
