@@ -9,13 +9,14 @@ body {
 }
 
 .container {
-  width: 1200px;
+  width: 70%;
   display: flex;
   justify-content: center;
   align-items: center;
   background-color: whitesmoke;
   border-radius: 15px;
-  padding: 15px;
+  padding: 25px;
+  
 }
 
 /* .card {
@@ -27,6 +28,8 @@ body {
 } */
 .right {
   width: 60%;
+margin-left: 85px;
+
 }
 .left {
   width: 40%;
@@ -100,7 +103,6 @@ margin-right: 20px;
 }
 
 button{background-color:hsl(234, 29%, 20%) ;
-
-
-
 }
+
+
